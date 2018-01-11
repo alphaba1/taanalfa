@@ -1,0 +1,20 @@
+#header{
+	background-color: solid black; 
+	width: 90px;
+	margin: 10px auto;
+	position: left;
+	height: 60px;
+	border: 200px;
+}
+
+{
+	width: 90px;
+	margin: 50px auto;
+	border: 200px;
+	background-color: red;
+	height: 20%;
+}
+
+#nav{
+
+}
